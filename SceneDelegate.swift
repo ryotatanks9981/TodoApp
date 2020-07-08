@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  TodoApp
-//
-//  Created by Ryota Karita on 2020/05/24.
-//  Copyright © 2020 Ryota Karita. All rights reserved.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
